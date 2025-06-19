@@ -1,4 +1,4 @@
-![](https://i.imgur.com/XoZdiKp.png)
+![](https://i.imgur.com/ZZRAcet.png)
 
 # Installation
 1. Download ```OVRTMedalClip.dll``` from [releases](https://github.com/geoe9/OVRT-MedalClip/releases)
